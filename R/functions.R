@@ -8,6 +8,6 @@
 #' @examples
 #' 
 matrice <- function(fichier) { 
-  donnees <- as.matrix(read.table(fichier, sep=";"))
+  A <- as.matrix(read.table(fichier, sep=";"))
   return (A)
 }

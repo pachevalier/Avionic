@@ -1,0 +1,34 @@
+---
+title: "import_data"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{import_data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(Avionic)
+library("here")
+```
+
+```{r}
+tei_imp <- matrice(fichier = here("data-raw/FR_2015_38/tei_imp_2015.csv"))
+tei_dom <- matrice(fichier = here("data-raw/FR_2015_38/tei_dom_2015.csv"))
+prod <- matrice(fichier = here("data-raw/FR_2015_38/prod_dom_2015.csv"))
+ef_i <- matrice(fichier = here("data-raw/FR_2015_38/conso_imp_menage_2015.csv"))
+ef_d <- matrice(fichier = here("data-raw/FR_2015_38/conso_dom_menage_2015.csv"))
+df_d <- matrice(fichier = here("data-raw/FR_2015_38/dde_dom_2015.csv"))
+df_i <- matrice(fichier = here("data-raw/FR_2015_38/dde_imp_2015.csv"))
+emploi <- matrice(fichier = here("data-raw/FR_2015_38/eqtp_2015.csv"))
+var_df <- matrice(fichier = here("data-raw/FR_2015_38/var_df.csv"))
+coeff_trans <- matrice(fichier = here("data-raw/FR_2015_38/coeff_transmission_38.csv"))
+```
+
