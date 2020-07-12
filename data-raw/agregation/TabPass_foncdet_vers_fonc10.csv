@@ -1,0 +1,118 @@
+Agrege;Detail;Libelle;OrdreAffich
+1;11;Prod. alimentaires et boissons non alcoolisées;1
+1;12;Prod. alimentaires et boissons non alcoolisées;1
+2;21;Boissons alcoolisées et tabac;4
+2;22;Boissons alcoolisées et tabac;4
+3;31;Articles d'habillement et chaussures;7
+3;32;Articles d'habillement et chaussures;7
+4;41;Logement, eau, gaz, électricité et autres combustibles;10
+4;42;Logement, eau, gaz, électricité et autres combustibles;10
+4;43;Logement, eau, gaz, électricité et autres combustibles;10
+4;44;Logement, eau, gaz, électricité et autres combustibles;10
+4;45;Logement, eau, gaz, électricité et autres combustibles;10
+5;51;Meubles, articles de ménage et entretien courant de l'habitation;16
+5;52;Meubles, articles de ménage et entretien courant de l'habitation;16
+5;53;Meubles, articles de ménage et entretien courant de l'habitation;16
+5;54;Meubles, articles de ménage et entretien courant de l'habitation;16
+5;55;Meubles, articles de ménage et entretien courant de l'habitation;16
+5;56;Meubles, articles de ménage et entretien courant de l'habitation;16
+6;60;Santé;23
+7;71;Transport;27
+7;72;Transport;27
+7;73;Transport;27
+8;81;Communications;32
+8;82;Communications;32
+8;83;Communications;32
+9;91;Loisirs et culture;33
+9;92;Loisirs et culture;33
+9;93;Loisirs et culture;33
+9;94;Loisirs et culture;33
+9;95;Loisirs et culture;33
+9;96;Loisirs et culture;33
+10;100;Education;40
+11;111;Produits alimentaires;2
+11;112;Produits alimentaires;2
+12;121;Boissons non alcoolisées;3
+12;123;Boissons non alcoolisées;3
+12;124;Boissons non alcoolisées;3
+12;125;Boissons non alcoolisées;3
+12;126;Boissons non alcoolisées;3
+12;127;Boissons non alcoolisées;3
+11HCF;11;Hôtels, cafés et restaurants;41
+12EDU;12;Autres biens et services;44
+21;21;Boissons alcoolisées;5
+22;22;Tabac;6
+31;31;Articles d'habillement;8
+32;32;Chaussures y.c réparations;9
+41;41;Loyers d'habitations effectifs;11
+42;42;Loyers imputés;12
+43;43;Réparation et entretien courants de logements;13
+44;44;Autres services liés au logement;14
+45;45;Electricité, gaz et autres combustibles;15
+51;51;Meubles, art. d'ameublement, tapis et autres;17
+52;52;Articles de ménage en textile;18
+53;53;Appareils ménagers;19
+54;54;Verrerie, vaisselle et ustensiles de ménage;20
+55;55;Outillage et autres matériels pour  la maison et le jardin;21
+56;56;Biens et services pour l'entretien courant de l'habitation;22
+60;60;Santé;23
+71;71;Achats de véhicules;28
+72;72;Dépenses d'utilisation de véhicules;30
+73;73;Services de transports;31
+81;81;Services des postes;998
+82;82;Materiel téléphonique  télécopieurs;997
+83;83;Services de telecommunications;996
+91;91;App. et acc. audio-visuels et informatiques;34
+92;92;Autres biens durables culturels et récréatifs;35
+93;93;Autres biens et équipements de loisirs;36
+94;94;Services culturels et récréatifs;37
+95;95;Presse, livres et papeterie;38
+96;96;Voyages touristiques tout compris;39
+100;100;Education;999
+111;111;Restauration;42
+112;112;Services d'hébergement;43
+121;121;Soins personnels;45
+123;123;Effets personnels n. c. a.;46
+124;124;Action sociale;47
+125;125;Assurances;48
+126;126;Services financiers (***);49
+127;127;Autres services;50
+TOTAL;11;TOTAL;51
+TOTAL;12;TOTAL;51
+TOTAL;21;TOTAL;51
+TOTAL;22;TOTAL;51
+TOTAL;31;TOTAL;51
+TOTAL;32;TOTAL;51
+TOTAL;41;TOTAL;51
+TOTAL;42;TOTAL;51
+TOTAL;43;TOTAL;51
+TOTAL;44;TOTAL;51
+TOTAL;45;TOTAL;51
+TOTAL;51;TOTAL;51
+TOTAL;52;TOTAL;51
+TOTAL;53;TOTAL;51
+TOTAL;54;TOTAL;51
+TOTAL;55;TOTAL;51
+TOTAL;56;TOTAL;51
+TOTAL;60;TOTAL;51
+TOTAL;71;TOTAL;51
+TOTAL;72;TOTAL;51
+TOTAL;73;TOTAL;51
+TOTAL;81;TOTAL;51
+TOTAL;82;TOTAL;51
+TOTAL;83;TOTAL;51
+TOTAL;91;TOTAL;51
+TOTAL;92;TOTAL;51
+TOTAL;93;TOTAL;51
+TOTAL;94;TOTAL;51
+TOTAL;95;TOTAL;51
+TOTAL;96;TOTAL;51
+TOTAL;100;TOTAL;51
+TOTAL;111;TOTAL;51
+TOTAL;112;TOTAL;51
+TOTAL;121;TOTAL;51
+TOTAL;123;TOTAL;51
+TOTAL;124;TOTAL;51
+TOTAL;125;TOTAL;51
+TOTAL;126;TOTAL;51
+TOTAL;127;TOTAL;51

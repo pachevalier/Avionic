@@ -1,0 +1,40 @@
+Agrege;Detail;Libelle_agrege;Libelle_Detail
+1;11;Prod. alimentaires et boissons non alcoolisées;Produits alimentaires
+1;12;Prod. alimentaires et boissons non alcoolisées;Boissons non alcoolisées
+2;21;Boissons alcoolisées et tabac;Boissons alcoolisées
+2;22;Boissons alcoolisées et tabac;Tabac
+3;31;Articles d'habillement et chaussures;Articles d'habillement
+3;32;Articles d'habillement et chaussures;Chaussures y.c réparations
+4;41;Logement, eau, gaz, électricité et autres combustibles;Loyers d'habitations effectifs
+4;42;Logement, eau, gaz, électricité et autres combustibles;Loyers imputés
+4;43;Logement, eau, gaz, électricité et autres combustibles;Réparation et entretien courants de logements
+4;44;Logement, eau, gaz, électricité et autres combustibles;Autres services liés au logement
+4;45;Logement, eau, gaz, électricité et autres combustibles;Electricité, gaz et autres combustibles
+5;51;Meubles, articles de ménage et entretien courant de l'habitation;Meubles, art. d'ameublement, tapis et autres
+5;52;Meubles, articles de ménage et entretien courant de l'habitation;Articles de ménage en textile
+5;53;Meubles, articles de ménage et entretien courant de l'habitation;Appareils ménagers
+5;54;Meubles, articles de ménage et entretien courant de l'habitation;Verrerie, vaisselle et ustensiles de ménage
+5;55;Meubles, articles de ménage et entretien courant de l'habitation;Outillage et autres matériels pour  la maison et le jardin
+5;56;Meubles, articles de ménage et entretien courant de l'habitation;Biens et services pour l'entretien courant de l'habitation
+6;60;Santé;Santé
+7;71;Transport;Achats de véhicules
+7;72;Transport;Dépenses d'utilisation de véhicules
+7;73;Transport;Services de transports
+8;81;Communications;Services postaux
+8;82;Communications;Matériel de téléphonie et de télécopie
+8;83;Communications;Services de téléphonie et de télécopie
+9;91;Loisirs et culture;App. et acc. audio-visuels et informatiques
+9;92;Loisirs et culture;Autres biens durables culturels et récréatifs
+9;93;Loisirs et culture;Autres biens et équipements de loisirs
+9;94;Loisirs et culture;Services culturels et récréatifs
+9;95;Loisirs et culture;Presse, livres et papeterie
+9;96;Loisirs et culture;Voyages touristiques tout compris
+10;100;Education;Education
+11;111;Hôtels, cafés et restaurants;Restauration
+11;112;Hôtels, cafés et restaurants;Services d'hébergement
+12;121;Autres biens et services;Soins personnels
+12;123;Autres biens et services;Effets personnels n. c. a.
+12;124;Autres biens et services;Action sociale
+12;125;Autres biens et services;Assurances
+12;126;Autres biens et services;Services financiers (***)
+12;127;Autres biens et services;Autres services

@@ -1,0 +1,50 @@
+Agrege;Detail;Libelle
+1;;Prod. alimentaires et boissons non alcoolisées
+;11;Produits alimentaires
+;12;Boissons non alcoolisées
+2;;Boissons alcoolisées et tabac
+;21;Boissons alcoolisées
+;22;Tabac
+3;;Articles d'habillement et chaussures
+;31;Articles d'habillement
+;32;Chaussures y.c réparations
+4;;Logement, eau, gaz, électricité et autres combustibles
+;41;Loyers d'habitations effectifs
+;42;Loyers imputés
+;43;Réparation et entretien courants de logements
+;44;Autres services liés au logement
+;45;Electricité, gaz et autres combustibles
+5;;Meubles, articles de ménage et entretien courant de l'habitation
+;51;Meubles, art. d'ameublement, tapis et autres
+;52;Articles de ménage en textile
+;53;Appareils ménagers
+;54;Verrerie, vaisselle et ustensiles de ménage
+;55;Outillage et autres matériels pour  la maison et le jardin
+;56;Biens et services pour l'entretien courant de l'habitation
+6;;Santé
+7;;Transport
+;71;Achats de véhicules
+;72;Dépenses d'utilisation de véhicules
+;73;Services de transports
+8;;Communications
+;81;Services postaux
+;82;Matériel de téléphonie et de télécopie
+;83;Services de téléphonie et de télécopie
+9;;Loisirs et culture
+;91;App. et acc. audio-visuels et informatiques
+;92;Autres biens durables culturels et récréatifs
+;93;Autres biens et équipements de loisirs
+;94;Services culturels et récréatifs
+;95;Presse, livres et papeterie
+;96;Voyages touristiques tout compris
+10;;Education
+11;;Hôtels, cafés et restaurants
+;111;Restauration
+;112;Services d'hébergement
+12;;Autres biens et services
+;121;Soins personnels
+;123;Effets personnels n. c. a.
+;124;Action sociale
+;125;Assurances
+;126;Services financiers (***)
+;127;Autres services
